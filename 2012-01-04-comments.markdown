@@ -1,0 +1,16 @@
+---
+date: '2012-01-04 23:00:54'
+layout: post
+slug: comments
+status: publish
+title: Comments
+wordpress_id: '1154'
+categories:
+- Site news
+tags:
+- comments
+---
+
+Yep. I have disabled comments. Why? Please read [Exhibit A](http://parislemon.com/post/15305835451/bile) and [Exhibit B](http://daringfireball.net/2010/06/whats_fair). Despite my personal dislike for Messieurs Gruber and Siegler, I will agree with them on those points.
+
+Oh, and I disabled in-post ads because they look absolutely horrible.

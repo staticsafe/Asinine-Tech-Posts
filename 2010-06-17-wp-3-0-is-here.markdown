@@ -1,0 +1,31 @@
+---
+date: '2010-06-17 15:48:36'
+layout: post
+slug: wp-3-0-is-here
+status: publish
+title: WP 3.0 is here!
+wordpress_id: '67'
+categories:
+- Tech
+- Unasinine stuff
+tags:
+- Blogging
+- CMS
+- internet
+- MU
+- Tech
+- update
+- wordpress
+---
+
+
+
+Just updated my blog to Wordpress 3.0.
+
+The new features are awesome. Make sure you backup your database before you upgrade!
+
+Also checkout this speech by [Matt Mullenweg](http://ma.tt) at the 2010 State of the Word speech at WordCamp (San Francisco).
+
+
+
+Happy blogging!

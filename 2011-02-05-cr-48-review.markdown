@@ -1,0 +1,33 @@
+---
+date: '2011-02-05 20:14:13'
+layout: post
+slug: cr-48-review
+status: publish
+title: CR-48 Review
+wordpress_id: '428'
+author: TechnoticRaccoon
+categories:
+- Blogging
+- Linux
+- Really random stuff
+- Tech
+tags:
+- CR-48
+- review
+---
+
+So for today's little..... well whatever you wanna call it, we are gonna give our first impressions/ hands on/ take of the CR-48 also known as the Chrome OS book! I was given the chance by Google to get one for free as long as I provided feedback (Aka the Pilot Program). I had already posted the unboxing-in-pictures for it. 
+
+Now I'm currently typing this in a Starbucks with 5:30hrs remaining on the battery. The machine is all black and matte. The feel is like the back of a Droid with soft-touch rubberized plastic. The screen is 12.1in. and is 1280x800. The keyboard is like a Macbook keyboard but a little bit less resistive. The caps lock and mute lights don't seem to work for some reason. The track pad is a click pad (also apple like). It only supports 2-finger scrolling and Pinch to zoom only works in Maps, be it Google or Bing. The pinch to zoom feature sorta threw my off at first since it apparently isn't multi-touch be eh, it works and I like it :D The track pad was originally pretty bad and unresponsive but switching over to the Dev. Channel eased most of the issues. The device also has on the top of the screen a microphone, web cam, and (drum roll please) Ambiance Light Sensor! OMFG?! :D
+
+Here are some of the issues I've had with the hardware. The web cam wont work for the life of me. It only wants to work when you set up a user, but if I try to do a live show or anything like that, nothing happens it goes undetected. Google Talk does detect that but I haven't tried it yet (maybe I'll try with staticsafe and update the post). In other issues sometime the ambient light sensor can go crazy and make the brightness jump really bad. The other really really...really...................REALLY BIG issue is that Verizon 3G wont work at all. I haven't called them yet, but I shouldn't have to.
+
+Now for the software (or should I say lack-of)! This ships with chrome OS build whatever-Google-wants-to-call-it-these-days. It was originally on the beta channel but i quickly updated it to the dev channel. Just a quick note for you out there trying one out. NEVER ENABLE REMOTING IN THE ABOUT:FLAGS MENU. It will make the whole OS crap out on you. Chrome OS is exactly like Chrome the web browser but it has a wifi menu, battery menu, and a clock! Some web apps like Gtalk, put little windows on the bottom of the screen that allows for east access to the web app. For the most part everything runs smooth, but get a too-many extensions or too many flash applets, and you've gone down. HTML5 video is smooth, but gaming in it lags like crazy. The age of the atom processor really shows. But....but...but... the battery life is................ AMAZING!!!!
+
+Now for the conclusion (don't ya love my use of transition words today?)! The CR-48 is a really great way to show how living on the web would work. I'm probably going to make this my main machine because I don't produce much content besides writing. Even with the issues the OS has, I'm pretty sure that when devices hit later this year.. The masses are gonna love it!
+
+P.S. The Software is still in alpha, and the hardware will never be seen in stores.
+
+UPDATE - The latest dev build fixed most issues with it, but flash is really being naughty.
+
+
