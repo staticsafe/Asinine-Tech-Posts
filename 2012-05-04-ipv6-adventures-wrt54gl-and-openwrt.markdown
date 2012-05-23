@@ -16,7 +16,9 @@ tags:
 - WRT54GL
 ---
 
-Yesterday foxwolfblood told me that his WRT54GS was capable of doing IPv6 (via tunnel) so I decided to put my WRT54GL to some use, so here goes:
+Yesterday foxwolfblood told me that his WRT54GS was capable of doing IPv6 (via tunnel) so I decided to put my WRT54GL to some use.
+
+<!-- more -->
 
 Things needed :
 
