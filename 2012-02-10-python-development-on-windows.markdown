@@ -15,6 +15,8 @@ tags:
 
 This post will be talking about how to set up a proper Python environment on Windows for development work.
 
+<!-- more -->
+
 Things that we need and where to get them:
 
 

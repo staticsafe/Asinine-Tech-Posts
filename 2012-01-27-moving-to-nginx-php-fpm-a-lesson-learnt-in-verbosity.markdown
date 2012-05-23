@@ -21,7 +21,7 @@ So yesterday I decided to move my web server from a typical LAMP setup with Memc
 
 The issue was that my VirtualHost for this site wasn't working, it decided to redirect to my web root (which resulted in a 503 Forbidden of course since there wasn't anything there).
 
-
+<!-- more -->
 
 The error message:
 

@@ -19,7 +19,7 @@ tags:
 
 This will be a bunch of small reviews of all the VPS services that I have used in the past few years. Some of the details are a bit hazy (especially if the service was bad) and mostly put together from Paypal invoices so here goes _something._
 
-
+<!-- more -->
 
 (In chronological order)
 

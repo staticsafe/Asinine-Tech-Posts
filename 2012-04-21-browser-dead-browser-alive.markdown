@@ -43,6 +43,8 @@ tags:
 
 Blah blah Chrome OS blah blah Google blah blah the cloud is the future. I have been on that horse for more than a year now, and with due therapy, I can finally admit that I am wrong. The browser is dead for applications, everything will be on the Internet. But it will not be on the web.
 
+<!-- more -->
+
 With the latest update to Chrome OS, Google created a new user interface called Ash. The press is dubbing it Aura, but Aura is the compositing and all the backend stuff. Ash is the actual name for user facing elements. But I digress.
 
 I have a whole rant on things wrong with Ash on my own[ blog, so read that if you are interested.](http://blog.technoticraccoon.com/post/21525447577/aura-why) To summarize, browser based applications are dead. And I am ok with that.

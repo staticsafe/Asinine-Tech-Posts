@@ -18,7 +18,7 @@ Wow, writing this post at 12:26 AM on the 21st while listening to k-pop, so excu
 
 (And no I'm not high)
 
-
+<!-- more -->
 
 Getting on topic, this post is about programming and how much I love it and what it means to me (yes, I know that sounds so damned corny). Programming is a sort of weird thing for me, sometimes I hate it (Ugh indentation errors!), sometimes I'm like "COMPUTERS ARE AMAZING".
 
