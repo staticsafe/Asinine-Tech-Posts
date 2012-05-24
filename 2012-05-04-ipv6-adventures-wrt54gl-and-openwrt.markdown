@@ -41,8 +41,9 @@ According to the IPv6 essentials [page](http://wiki.openwrt.org/doc/howto/ipv6.e
 
 Due to the limited amount of flash memory on my WRT54GL I left off the kmod-ip6tables and ip6tables packages. After those packages are installed, you need to install the 6in4 package.
 
-`opkg update
-opkg install 6in4`
+`opkg update`
+
+`opkg install 6in4`
 
 Then, make sure IPv6 forwarding is enabled, edit /etc/sysctl.conf with this:
 
