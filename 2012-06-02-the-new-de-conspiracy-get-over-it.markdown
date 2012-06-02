@@ -3,7 +3,9 @@ layout: post
 title: "The New DE Conspiracy: Get Over It"
 date: 2012-06-02 13:15
 comments: true
-categories: Linux, Rants 
+categories: 
+- Linux 
+- Rants 
 published: true
 ---
 
@@ -18,9 +20,10 @@ and some of the [comments](http://www.reddit.com/r/linux/comments/ugayi/linus_to
 
 
 Firstly, what the hell is with the comparison with editors? Guess why vim and emacs are in distro repositories? The reason being that they are actively
-developed and maintained. GNOME2 is still being maintained in distros like Debian Squeeze, RHEL and its various clones. With Debian Wheezy, GNOME 3 will
-be the new GNOME. This is because the GNOME developers are no longer developing on GNOME2. There is no goddamn conspiracy, the Linux world has simply 
-moved on from DEs that are not being actively supported.
+developed and maintained. GNOME2 is still being maintained in distros like Debian Squeeze, RHEL and its various clones. With RHEL, it will be supported
+because it is an enterprise distro and companies are *paying* for that support. With the upcoming Debian Wheezy, GNOME 3 will be the new GNOME. This is because 
+the GNOME developers are no longer developing on GNOME2. There is no goddamn conspiracy, the Linux world has simply moved on from DEs that are not being 
+actively supported.
 
 
 ### The Circlejerk
