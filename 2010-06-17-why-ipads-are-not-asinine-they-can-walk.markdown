@@ -16,7 +16,7 @@ tags:
 - walking iPad
 ---
 
-[youtube]http://www.youtube.com/watch?v=yL9CTazNujE[/youtube]
+{% video http://www.youtube.com/watch?v=yL9CTazNujE %}
 
 This is friggin' awesome.
 

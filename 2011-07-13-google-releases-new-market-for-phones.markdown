@@ -68,6 +68,6 @@ As you can see, the app has a completely redesigned UI, that definitely feels mu
 
 Here is a video released by Google that demonstrates the new UI:
 
-[youtube]5Pbo-d62ivY[/youtube]
+{% video http://www.youtube.com/watch?v=5Pbo-d62ivY %}
 
 Google is pushing out the updates to phones around the world soon, but if you can't wait to get your hands on the new Market (like me) you can sideload the APK file which can be downloaded from [here](http://www.4shared.com/file/kyNUMuu_/comandroidvending-new.html?). I have tested the APK on my own phone (Galaxy S Captivate) and all the functions of the app work great without any obvious issues.

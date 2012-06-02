@@ -59,11 +59,7 @@ Yes, and here is why. Up until now, the major tech players have been shipping ta
 
 To see windows 8 in action, check out this video.
 
-[youtube]p92QfWOw88I[/youtube]
-
-
-
-
+{% video http://www.youtube.com/watch?v=p92QfWOw88I %}
 
 Windows 8 in action
 
