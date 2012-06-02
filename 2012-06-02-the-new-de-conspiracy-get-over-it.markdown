@@ -7,7 +7,7 @@ categories: Linux, Rants
 published: true
 ---
 
-{% img http://i.imgur.com/3R8y7.jpg 'The Windows 2000 look' 'KDE 3' %}
+{% img http://i.imgur.com/3R8y7.jpg 'The NT4 look' 'KDE 3' %}
 
 So I was reading a [thread](http://www.reddit.com/r/linux/comments/ugayi/linus_torvalds_on_gnome3_tell_us_what_you_really/) on r/linux, 
 and some of the [comments](http://www.reddit.com/r/linux/comments/ugayi/linus_torvalds_on_gnome3_tell_us_what_you_really/c4vb5il) really pissed me off.
