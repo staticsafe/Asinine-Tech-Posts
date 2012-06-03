@@ -31,7 +31,8 @@ actively supported.
 
 But wait, GNOME2 is still being supported with forks like [MATE](http://mate-desktop.org/) and KDE3 is (still!) being supported with [Trinity](http://www.trinitydesktop.org/).
 Now the complaint being that these forks are not being supported officially with modern distros. Boo-fucking-hoo. The keyword here being *modern*. A modern distro should focus on 
-maintaining DEs that are current and not waste precious maintainer time on (frankly speaking) outdated DEs (I don't agree with Linux Mint supporting MATE either). 
+maintaining DEs that are current and not waste precious maintainer time on (frankly speaking) outdated DEs (I don't agree with Linux Mint supporting MATE either, they are stretched
+thin right now anyways). 
 
 
 ### The Savior
