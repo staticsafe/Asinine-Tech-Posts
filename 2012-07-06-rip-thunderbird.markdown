@@ -16,3 +16,9 @@ According to the post:
 Put down your online petitions people, Thunderbird isn't dying (or dead), Mozilla is just moving focus to Firefox and B2G (their new mobile platform). Since this is an open-source project, I'm sure people who want to maintain and innovate Thunderbird will step up (I'm pretty sure there are a lot of people interested in that!)
 
 The bird isn't dead, its just resting.
+
+Further reassurances:
+
+- [Mike Conley](http://mikeconley.ca/blog/2012/07/06/no-thats-not-it-for-thunderbird/)
+
+- [Ludovic Hirlimann](http://sietch-tabr.tumblr.com/post/26700299043/thunderbirds-future-from-the-inside)
