@@ -45,7 +45,6 @@ Overall, a highly recommended provider with great prices.
 **[Leaseweb](http://www.leaseweb.com/en/cloud-hosting)**
 
 Leaseweb probably has some of the best connectivity among the European providers**. **I had some issues with the VPS randomly rebooting (which is particularly annoying if you run a IRC server link on it). Technical support told me that was their automatic system for moving VMs when the host machine had issues**.
-**
 
 ** [Linode](http://www.linode.com/?r=eb502ec47e3acaa700d98c0bc94a44453f958520)**
 
@@ -53,7 +52,7 @@ This is my current provider. If you know anything about VPSes, you have probably
 
 **Overall conclusions**
 
-****The VPS industry is cutthroat one and it is wise to be careful. Remember, the age old adages - "You get what you pay for" and "If it looks too good to be true, it probably is".
+The VPS industry is cutthroat one and it is wise to be careful. Remember, the age old adages - "You get what you pay for" and "If it looks too good to be true, it probably is".
 
 
 
