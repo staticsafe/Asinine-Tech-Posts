@@ -30,11 +30,11 @@ This was my first real virtual private server. Excited with the prospects of a r
 
 **[Omegabox](http://www.omegabox.me/) **
 
-Another server.lu reseller (at least for the 100mbit VPS plan I used). No issues with the VPS itself, the connectivity issues previously experienced seem to have resolved.****
+Another server.lu reseller (at least for the 100mbit VPS plan I used). No issues with the VPS itself, the connectivity issues previously experienced seem to have resolved.
 
 **[Amazon EC2](https://aws.amazon.com/ec2/)**
 
-TingPing told me that there was a one year free trial so I signed up. The trial is for a micro instance with enough instance hours for every month**. **You get a decent amount of bandwidth and 613MB of RAM (a weird amount). The CPU is heavily throttled but is very usable for simple web hosting and running a IRC server.****
+TingPing told me that there was a one year free trial so I signed up. The trial is for a micro instance with enough instance hours for every month. You get a decent amount of bandwidth and 613MB of RAM (a weird amount). The CPU is heavily throttled but is very usable for simple web hosting and running a IRC server.
 
 **[Prgmr](http://prgmr.com/xen/)**
 
@@ -44,7 +44,7 @@ Overall, a highly recommended provider with great prices.
 
 **[Leaseweb](http://www.leaseweb.com/en/cloud-hosting)**
 
-Leaseweb probably has some of the best connectivity among the European providers**. **I had some issues with the VPS randomly rebooting (which is particularly annoying if you run a IRC server link on it). Technical support told me that was their automatic system for moving VMs when the host machine had issues**.
+Leaseweb probably has some of the best connectivity among the European providers. I had some issues with the VPS randomly rebooting (which is particularly annoying if you run a IRC server link on it). Technical support told me that was their automatic system for moving VMs when the host machine had issues.
 
 ** [Linode](http://www.linode.com/?r=eb502ec47e3acaa700d98c0bc94a44453f958520)**
 
