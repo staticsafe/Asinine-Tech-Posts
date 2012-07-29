@@ -15,6 +15,8 @@ Firstly, [link](http://www.reddit.com/r/linux/comments/xcf4n/nonfree_drmd_games_
 
 Also, the [RMS post](https://www.gnu.org/philosophy/nonfree-games.en.html) that caused this thread.
 
+<! -- more -->
+
 ## Thoughts on RMS' post
 
 This post is actually rather reasonable. I daresay RMS is getting a bit soft. RMS also poses an interesting question in his post:
