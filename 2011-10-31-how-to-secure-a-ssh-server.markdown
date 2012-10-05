@@ -84,9 +84,9 @@ If on a Windows machine, you can use [puttygen](http://the.earth.li/%7Esgtatham/
 
 	
   3. Now you need to put the public key in the authorized_keys file in $HOME/.ssh/authorized_keys on the host machine. On Linux, to get the pubkey of the SSH key you just generated go into $HOME/.ssh/
-
+   {% codeblock %}
    cat id_rsa.pub
-
+   {% endcodeblock %}
 Copy and paste that into the authorized_keys file. In puttygen, the pubkey is displayed when the key is generated.
 
 	
